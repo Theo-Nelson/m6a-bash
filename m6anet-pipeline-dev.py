@@ -3,7 +3,7 @@ python pipeline for m6a-net pipeline command generation
 
 Author: Theo Nelson
 
-Mason Lab
+Lab: Mason Lab
 """
 
 input_path="/athena/masonlab/scratch/users/tmn2126/m6a_cortex/samples/"
